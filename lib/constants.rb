@@ -1,12 +1,12 @@
 module Constants
-  TIMEZONE = 'Eastern Time (US & Canada)'
+  TIMEZONE = 'Sydney'
   DAY_END = 1
   BUILD_MEETINGS = 2
   PRE_MEETINGS = 1
   PRE_HOURS = 25
   DEFAULT_LOGIN = "signup@team900.org"
-  TEAM_NAME = 'Zebracorns'
-  TEAM_NUMBER = '900'
+  TEAM_NAME = 'TDU'
+  TEAM_NUMBER = '3132'
   SCHOOL_NAME_REPLACEMENT = 'School'
   GENDERS = ['Male', 'Female', 'Other']
   FRESHMAN_HOURS = 6
